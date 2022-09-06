@@ -1,6 +1,6 @@
-# metaportfolio
+# Metaportfolio
 
-This template should help get you started developing with Vue 3 in Vite.
+This project is a simple portfolio site built with Vue.js. The site itself is intended to be part of the portfolio.
 
 ## Recommended IDE Setup
 
@@ -56,4 +56,13 @@ npm run test:e2e # or `npm run test:e2e:ci` for headless testing
 
 ```sh
 npm run lint
+```
+
+### Docker
+
+```
+1) Install Docker Desktop
+2) Build the container. Example: `docker build -t vuejs-cookbook/dockerize-vuejs-app .`
+3) Run the container. Example: `docker run -it -p 8080:80 --rm --name dockerize-vuejs-app-1 vuejs-cookbook/dockerize-vuejs-app`
+4) The app should be available at the port specified. Example: `localhost:8080`
 ```
