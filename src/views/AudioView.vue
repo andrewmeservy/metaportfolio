@@ -1,12 +1,12 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div class="more">
+    <h1>This is the AUDIO page</h1>
   </div>
 </template>
 
 <style>
 @media (min-width: 1024px) {
-  .about {
+  .more {
     min-height: 100vh;
     display: flex;
     align-items: center;
