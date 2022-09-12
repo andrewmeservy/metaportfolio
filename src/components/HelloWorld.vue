@@ -1,7 +1,15 @@
 <script setup lang="ts">
+import { useRoute } from "vue-router";
+
 defineProps<{
-  msg: string
-}>()
+  msg: string;
+}>();
+
+const route = useRoute();
+
+function changeLocale(newLocale: string) {
+  window.location.replace("/" + newLocale + route.path);
+}
 </script>
 
 <template>
@@ -13,6 +21,13 @@ defineProps<{
       <a target="_blank" href="https://vuejs.org/">Vue 3</a>. What's next?
     </h3>
   </div>
+
+  <div>
+    <button @click="changeLocale('de')">German</button>
+    <button @click="changeLocale('en')">English</button>
+  </div>
+
+  <p>{{ $t("hello") }}</p>
 </template>
 
 <style scoped>
