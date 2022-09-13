@@ -92,7 +92,11 @@ function toggleTheme() {
     </v-navigation-drawer>
 
     <v-main>
-      <v-container class="ml-12" fluid>
+      <v-container fluid class="w-75 d-none d-lg-flex">
+        <!-- If using vue-router -->
+        <router-view></router-view>
+      </v-container>
+      <v-container fluid class="d-lg-none">
         <!-- If using vue-router -->
         <router-view></router-view>
       </v-container>
