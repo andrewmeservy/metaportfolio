@@ -1,19 +1,34 @@
 <script setup lang="ts"></script>
 
 <template>
-  <div class="greetings">
+  <div class="greetings ma-10">
     <h1 class="green">{{ $t("home.welcome") }}</h1>
     <h3>
-      <img
-        alt="Vue logo"
-        class="logo"
-        src="@/assets/logo.svg"
-        width="25"
-        height="25"
-      />
-      {{ $t("home.project") }}
-      <a target="_blank" href="https://vitejs.dev/">Vite</a> +
-      <a target="_blank" href="https://vuejs.org/">Vue 3</a>.
+      <div>
+        {{ $t("home.project") }}
+        <a target="_blank" href="https://vitejs.dev/">Vite</a> +
+        <a target="_blank" href="https://vuejs.org/">Vue 3</a>
+        {{ $t("home.hosted") }}
+        <a target="_blank" href="https://aws.amazon.com/ecs/">AWS ECS</a>.
+        <pre></pre>
+        {{ $t("home.source") }}
+        <a
+          target="_blank"
+          href="https://github.com/andrewmeservy/metaportfolio"
+          >{{ $t("home.here") }}</a
+        >
+      </div>
+
+      <div class="mt-4">
+        {{ $t("home.meta") }}
+        <a
+          target="_blank"
+          class="font-italic"
+          href="https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach"
+          >{{ $t("home.book") }}</a
+        >
+        {{ $t("home.meta2") }}
+      </div>
     </h3>
   </div>
 </template>

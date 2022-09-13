@@ -7,6 +7,18 @@
     },
     "home": {
         "welcome": "Welcome to my Portfolio!",
-        "project": "This project was created with"
+        "project": "This project was created with",
+        "hosted": " and is hosted in a Docker container with",
+        "source": "You can find the source code for this project on GitHub",
+        "here": " here.",
+        "meta": " The idea to create this site as a \"meta\"portfolio was inspired by the book",
+        "book": "Gödel, Escher, Bach: an Eternal Golden Braid by Douglas Hofstadter",
+        "meta2": "meaning this website is, itself, a part of my portfolio, which is this website.",
+        "whoami": "Who Am I?",
+        "iam-intro": "Hi! My name is Andrew Meservy. I love writing code, listening to music, and being in the mountains. You can contact me at ",
+        "software-intro": "over six years of experience working with various languages and technologies",
+        "audio-intro": "work with sound design, live performance, modular, and mixing",
+        "more": "More",
+        "more-intro": "rock climbing, books, virtual reality, creative coding, and language learning"
     }
 }
