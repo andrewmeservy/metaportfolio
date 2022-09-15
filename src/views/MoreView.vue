@@ -1,15 +1,13 @@
+<script setup lang="ts">
+import MoreGallery from "../components/MoreGallery.vue";
+</script>
+
 <template>
-  <div class="more">
-    <h1>This is the MORE page</h1>
-  </div>
+  <main class="w-100">
+    <div class="ma-10">
+      <MoreGallery></MoreGallery>
+    </div>
+  </main>
 </template>
 
-<style>
-@media (min-width: 1024px) {
-  .more {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-  }
-}
-</style>
+<style></style>

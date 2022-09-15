@@ -39,5 +39,22 @@
             },
             "asterisk": "Ein Sternchen (*) bedeutet, dass ich mit dem Thema vertraut bin, auch wenn ich weniger Berufserfahrung haben."
         }
+    },
+    "more": {
+        "gallery": {
+            "climbing": "Ich klettere gerne am Fels, sowohl in der Halle als auch im Freien. Ich klettere hauptsächlich Boulder, bin aber auch Top-Rope- und Lead-zertifiziert und liebe Rissklettern. Diese Aufnahme wurde im LCC von meinem Freund, dem Weltcup-Fotografen Gabriel Ramos, gemacht",
+            "languages": "Ich verbringe viel Zeit damit, Sprachen zu lernen - im Moment konzentriere ich mich darauf, mein Deutsch zu verbessern, aber ich habe auch Interesse an Spanisch, Norwegisch, Isländisch und Japanisch.",
+            "vr": "Projekt_1Q84 ist ein kollaborativer Kunst- und Musikraum, den ich zusammen mit dem talentierten Künstler Mordio in der virtuellen Realität entwickelt habe",
+            "boutiki": "Boutiki war eine Startup-Idee, die ich mit meinem wahnsinnig unternehmerischen Freund David Cline entwickelt habe",
+            "shaders": "Ein Fractal Brownian Motion glsl-Shader, den ich vor einiger Zeit geschrieben habe und der meine eigene Implementierung von Ken Perlins Rauschalgorithmus verwendet.",
+            "touchdesigner": "Mit touchdesigner erstelltes Tunnelvisual - ich möchte eventuell einige audio- und visuell-reaktive generative Patches in Kombination mit meinem modularen System erstellen",
+            "perlin-noise": "Terraria-ähnliches Spiel, das ich vor Ewigkeiten in Unity erstellt habe und das Perlin-Rauschen zur prozeduralen Generierung von realistischen Höhlen/Tunneln und Landschaften nutzt.",
+            "reading": "Ich lese sehr gerne, meistens Science-Fiction- oder wissenschaftsbezogene Bücher. Dieses Bild stammt von der Website des Autors eines meiner Lieblingsbücher, Diaspora von Greg Egan. https://www.gregegan.net/DIASPORA/DIASPORA.html",
+            "zerog": "Zero Gravity war ein Handyspiel, das ich programmiert habe, als ich noch sehr jung war. Es war eines der ersten großen Projekte, die ich fertiggestellt und erfolgreich gestartet habe. Leider ist es nicht mehr zum Download verfügbar.",
+            "knights": "Pixel Knights war ein Spiel im RPG-Stil, das ich vor einiger Zeit entwickelt habe.",
+            "calculator": "Ein transparenter Taschenrechner, den ich programmiert habe und den ich in meinen Bildern auf meiner alten Festplatte gefunden habe.",
+            "photography": "Fotos machen und in den Bergen sein :)",
+            "oscilloscopeart": "Einige Oszilloskop-Kunstwerke, die ich mit meinem Datenmodul erstellt habe. Das Favicon für diese Website ist eine verkleinerte Version eines Oszilloskopbildes, das ich gemacht habe!"
+        }
     }
 }
