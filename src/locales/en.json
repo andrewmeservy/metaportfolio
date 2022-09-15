@@ -39,5 +39,22 @@
             },
             "asterisk": "Asterisk (*) indicates familiarity albeit less working experience."
         }
+    },
+    "more": {
+        "gallery": {
+            "climbing": "I enjoy rock climbing, both indoors and outdoors. I mostly boulder, but am also top rope/lead certified and love crack climbing. This shot was captured in LCC by my world-cup photographer friend Gabriel Ramos",
+            "languages": "I spend a lot of time learning languages - at the moment my focus has been to improve my German, however I also have an interest in Spanish, Norwegian, Icelandic, and Japanese.",
+            "vr": "Projekt_1Q84 is a collaborative art and music space I co-developed in virtual reality with the talented artist Mordio",
+            "boutiki": "Boutiki was a startup idea I built with my insanely entrepreneurial friend, David Cline",
+            "shaders": "A Fractal Brownian Motion glsl shader I wrote awhile ago, using my own implementation of Ken Perlin's noise algorithm.",
+            "touchdesigner": "Tunnel visual created with touchdesigner - eventually would like to create some audio-reactive and visual-reactive generative patches combined with my modular",
+            "perlin-noise": "Terraria-style game I created in Unity forever ago that leveraged Perlin noise to procedurally generate realistic caves/tunnels and landscapes.",
+            "reading": "I thoroughly enjoy reading, mostly sci-fi or science-related books. This image is from the website of the author of one of my favorite books, Diaspora by Greg Egan. https://www.gregegan.net/DIASPORA/DIASPORA.html",
+            "zerog": "Zero Gravity was a mobile game I programmed when I was very young. One of the first big projects I finished and successfully launched. Sadly it is no longer available to download.",
+            "knights": "Pixel Knights was an RPG style game I created once upon a time.",
+            "calculator": "A transparent calculator I programmed that I found in my images on my old hard drive.",
+            "photography": "Capturing photos and being in the mountains :)",
+            "oscilloscopeart": "Some oscilloscope art I created with my data module. The favicon for this website is actually a scaled-down version of some oscilloscope art I made!"
+        }
     }
 }

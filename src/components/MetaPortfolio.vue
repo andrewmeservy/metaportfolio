@@ -1,5 +1,3 @@
-<script setup lang="ts"></script>
-
 <template>
   <div class="greetings ma-10">
     <h1 class="green">{{ $t("home.welcome") }}</h1>
