@@ -20,5 +20,24 @@
         "audio-intro": "work with sound design, live performance, modular, and mixing",
         "more": "More",
         "more-intro": "rock climbing, books, virtual reality, creative coding, and language learning"
+    },
+    "software": {
+        "technologies": {
+            "title": "Languages / Technologies",
+            "tabs": {
+                "languages": "Languages",
+                "libraries": "Libraries",
+                "js-css-libraries": "JS / CSS Libraries",
+                "database-technologies": "Database Technologies",
+                "concepts": "Concepts",
+                "devops": "DevOps",
+                "software-tools": "Software / Tools",
+                "source-control": "Source Control",
+                "project-tracking": "Project Tracking",
+                "operating-systems": "Operating Systems",
+                "ides": "IDEs"
+            },
+            "asterisk": "Asterisk (*) indicates familiarity albeit less working experience."
+        }
     }
 }

@@ -9,7 +9,10 @@
       </div>
 
       <div class="ma-4 d-flex justify-center">
-        <img width="300" src="https://d238jsauu84mgr.cloudfront.net/profilePic.webp" />
+        <img
+          width="300"
+          src="https://d238jsauu84mgr.cloudfront.net/profilePic.webp"
+        />
       </div>
     </div>
     <v-divider></v-divider>
@@ -22,7 +25,10 @@
           <v-card-text>
             {{ $t("home.software-intro") }}
           </v-card-text>
-          <img width="300" src="https://d238jsauu84mgr.cloudfront.net/software-intro.png" />
+          <img
+            width="300"
+            src="https://d238jsauu84mgr.cloudfront.net/software-intro.png"
+          />
         </v-card>
       </v-sheet>
       <v-sheet class="ma-8 pa-2">
@@ -33,7 +39,10 @@
           <v-card-text>
             {{ $t("home.audio-intro") }}
           </v-card-text>
-          <img width="300" src="https://d238jsauu84mgr.cloudfront.net/audio-intro2.jpg" />
+          <img
+            width="300"
+            src="https://d238jsauu84mgr.cloudfront.net/audio-intro2.jpg"
+          />
         </v-card>
       </v-sheet>
       <v-sheet class="ma-8 pa-2">
@@ -44,7 +53,10 @@
           <v-card-text>
             {{ $t("home.more-intro") }}
           </v-card-text>
-          <img width="300" src="https://d238jsauu84mgr.cloudfront.net/more-intro.jpg" />
+          <img
+            width="300"
+            src="https://d238jsauu84mgr.cloudfront.net/more-intro.jpg"
+          />
         </v-card>
       </v-sheet>
     </div>
