@@ -20,5 +20,24 @@
         "audio-intro": "Arbeit mit Sounddesign, Live-Performance, Modular und Mixing",
         "more": "Mehr",
         "more-intro": "Klettern, Bücher, virtuelle Realität, kreatives Programmieren und Sprachenlernen"
+    },
+    "software": {
+        "technologies": {
+            "title": "Sprachen / Technologien",
+            "tabs": {
+                "languages": "Sprachen",
+                "libraries": "Bibliotheken",
+                "js-css-libraries": "JS / CSS Bibliotheken",
+                "database-technologies": "Datenbank Technologien",
+                "concepts": "Konzepte",
+                "devops": "DevOps",
+                "software-tools": "Software / Werkzeuge",
+                "source-control": "Quellenkontrolle",
+                "project-tracking": "Projektverfolgung",
+                "operating-systems": "Betriebssysteme",
+                "ides": "Integrierte Entwicklungsumgebungen"
+            },
+            "asterisk": "Ein Sternchen (*) bedeutet, dass ich mit dem Thema vertraut bin, auch wenn ich weniger Berufserfahrung haben."
+        }
     }
 }
