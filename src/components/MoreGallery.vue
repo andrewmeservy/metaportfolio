@@ -115,7 +115,7 @@ const photos = [
             </v-row>
           </template>
         </v-img>
-        <video height="400" v-if="photo.isVideo" controls autoplay loop>
+        <video height="400" v-if="photo.isVideo" controls autoplay loop muted>
           <source :src="photo.link" :type="photo.videoType" />
         </video>
         <v-card-text>{{ photo.description }}</v-card-text>

@@ -38,7 +38,9 @@
                 "ides": "IDEs"
             },
             "asterisk": "Asterisk (*) indicates familiarity albeit less working experience."
-        }
+        },
+        "work-history": "Work History",
+        "work-history-description": "I have over 6 years of experience working as a software engineer with companies of different sizes in different industries. Please reference my resume for an in-depth view of my professional work history."
     },
     "more": {
         "gallery": {
@@ -56,5 +58,15 @@
             "photography": "Capturing photos and being in the mountains :)",
             "oscilloscopeart": "Some oscilloscope art I created with my data module. The favicon for this website is actually a scaled-down version of some oscilloscope art I made!"
         }
+    },
+    "audio": {
+        "sound-design": "Sound Design / Modular Synthesis",
+        "sound-design-description": "My first synthesizer was the semi-modular Dreadbox Erebus. Since then, I've worked with a huge variety of synthesizers, modules, drum machines, mixers, media players and other audio hardware. I'm also a member of the SLC Synth Alliance.",
+        "sound-design-setup": "Some of my current favorite modules are the Euclidean Circles v2 from vpme.de, Toppobrillo Multifilter, and Batumi Quad LFO. I also extensively use the Access Virus TI2 and several in-the-box VSTs to create the sounds I am looking for.",
+        "live-performance": "Live Sound / Performance",
+        "live-sound-description": "I've helped set up Funktion One sound systems, FFA amps, and booth monitors, assisting sound engineers in finding a balanced sound in a live environment.",
+        "live-sound-description2": "An aptitude for troubleshooting live performance equipment, including mixers and media players, and handling artist changeovers. I'm a big advocate for the use of hearing protection.",
+        "performance-description": "I also enjoy creating sets aligned with various themes, including audio / visual ambient art showcases.",
+        "philosophy-in-sound": "My philosophy regarding sound is based primarily around a sense of space, dynamics, rhythm, texture, and atmosphere."
     }
 }
