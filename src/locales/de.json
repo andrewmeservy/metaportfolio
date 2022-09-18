@@ -38,7 +38,9 @@
                 "ides": "Integrierte Entwicklungsumgebungen"
             },
             "asterisk": "Ein Sternchen (*) bedeutet, dass ich mit dem Thema vertraut bin, auch wenn ich weniger Berufserfahrung haben."
-        }
+        },
+        "work-history": "Arbeitsgeschichte",
+        "work-history-description": "Ich habe über 6 Jahre Erfahrung als Software-Entwickler bei Unternehmen unterschiedlicher Größe und in verschiedenen Branchen. Bitte beziehen Sie sich auf meinen Lebenslauf, um einen detaillierten Einblick in meinen beruflichen Werdegang zu erhalten."
     },
     "more": {
         "gallery": {
@@ -56,5 +58,15 @@
             "photography": "Fotos machen und in den Bergen sein :)",
             "oscilloscopeart": "Einige Oszilloskop-Kunstwerke, die ich mit meinem Datenmodul erstellt habe. Das Favicon für diese Website ist eine verkleinerte Version eines Oszilloskopbildes, das ich gemacht habe!"
         }
+    },
+    "audio": {
+        "sound-design": "Sound-Design / Modulare Synthese",
+        "sound-design-description": "Mein erster Synthesizer war der semi-modulare Dreadbox Erebus. Seitdem habe ich mit einer Vielzahl von Synthesizern, Modulen, Drum-Machines, Mischpulten, Media-Playern und anderer Audio-Hardware gearbeitet. Ich bin auch Mitglied der SLC Synth Alliance.",
+        "sound-design-setup": "Einige meiner aktuellen Lieblingsmodule sind die Euclidean Circles v2 von vpme.de, Toppobrillo Multifilter und Batumi Quad LFO. Ich benutze auch ausgiebig den Access Virus TI2 und verschiedene in-the-box VSTs, um die Sounds zu machen, die ich suche.",
+        "live-performance": "Live-Sound / Performance",
+        "live-sound-description": "Ich habe bei der Einrichtung von Funktion One-Soundsystemen, FFA-Verstärkern und Kabinenmonitoren geholfen und Toningenieure dabei unterstützt, einen ausgewogenen Sound in einer Live-Umgebung zu finden.",
+        "live-sound-description2": "Eine Begabung für die Fehlersuche bei Live-Performance-Equipment, einschließlich Mischpulten und Mediaplayern, und die Handhabung von Künstlerwechseln. Ich bin ein großer Verfechter der Verwendung von Gehörschutz.",
+        "performance-description": "Ich genieße es auch, Sets zu kreieren, die auf verschiedene Themen ausgerichtet sind, einschließlich audio-visueller Ambient / Kunst Ausstellung.",
+        "philosophy-in-sound": "Meine Klangphilosophie basiert hauptsächlich auf einem Gefühl für Raum, Dynamik, Rhythmus, Textur und Atmosphäre."
     }
 }
