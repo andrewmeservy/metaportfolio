@@ -5,7 +5,11 @@
     <div class="d-lg-flex justify-center align-center">
       <div class="ma-4 w-50">
         <h1>{{ $t("home.whoami") }}</h1>
-        <h3>{{ $t("home.iam-intro") }}andrewmeservy@gmail.com.</h3>
+        <h3>
+          {{ $t("home.iam-intro") }}andrewmeservy@gmail.com{{
+            $t("home.iam-intro2")
+          }}
+        </h3>
       </div>
 
       <div class="ma-4 d-flex justify-center">

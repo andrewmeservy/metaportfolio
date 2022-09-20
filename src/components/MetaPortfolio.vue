@@ -7,7 +7,8 @@
         <a target="_blank" href="https://vitejs.dev/">Vite</a> +
         <a target="_blank" href="https://vuejs.org/">Vue 3</a>
         {{ $t("home.hosted") }}
-        <a target="_blank" href="https://aws.amazon.com/ecs/">AWS ECS</a>.
+        <a target="_blank" href="https://aws.amazon.com/ecs/">AWS ECS</a
+        >{{ $t("home.hosted2") }}
         <pre></pre>
         {{ $t("home.source") }}
         <a
@@ -15,6 +16,7 @@
           href="https://github.com/andrewmeservy/metaportfolio"
           >{{ $t("home.here") }}</a
         >
+        {{ $t("home.source2") }}
       </div>
 
       <div class="mt-4">
