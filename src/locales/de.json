@@ -7,8 +7,8 @@
     },
     "home": {
         "welcome": "Willkommen zu meinem Portfolio!",
-        "project": "Dieses Projekt wurde in Zusammenarbeit mit ",
-        "hosted": " entwickelt und wird in einem Docker-Container von",
+        "project": "Dieses Projekt wurde mit ",
+        "hosted": " entwickelt und wird in einem Docker-Container an",
         "hosted2": " gehostet.",
         "source": "Du kannst den Quellcode für dieses Projekt ",
         "source2": "auf GitHub finden.",
